@@ -13,5 +13,3 @@
 - DuckDB, GeoParquet
 - QGIS
 
-## Contact
-- Email: qiyibest@gmail.com
