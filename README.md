@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yi Qi 👋
 
-<!--
-**qiyibest/qiyibest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- GIS Developer / Data Analyst
+- Interested in spatial data and pipelines
 
-Here are some ideas to get you started:
+## Projects
+- [NOAA Storm Locations Pipeline](https://github.com/qiyibest/ModernGIS-1) — Downloads NOAA storm events data and converts to GeoParquet for spatial analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Bash, Python
+- GDAL / ogr2ogr
+- DuckDB, GeoParquet
+- QGIS
+
+## Contact
+- Email: qiyibest@gmail.com
